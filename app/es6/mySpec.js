@@ -1,7 +1,7 @@
 //abstraction for an employee app
-describe("the class for employees", function(){
+describe("the class for employees", ()=>{
 
-	it("can create a class", function() {
+	it("can create a class", ()=> {
 		let s_name = Symbol();
 	class Person{
 			constructor(name){
