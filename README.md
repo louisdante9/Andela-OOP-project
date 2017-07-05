@@ -3,6 +3,7 @@ this is an OOP implementation of  modelling a real-world scenario/problem, while
 ## list of the OOP concepts used. For example:
 - Encapsulation
 - Inheritance
+- getters and setters
 
 ## To view my work 
 please go to the app folder under Es6 for coding logic
